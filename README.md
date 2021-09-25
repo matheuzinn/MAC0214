@@ -14,3 +14,10 @@ Nesse dia, analisamos a solução das questões do contest, principalmente das q
 **Opiniões:** Assim como o primeiro contest, esse também não exigia muito conhecimento sobre algoritmos e estruturas de dados, a maior parte das questões podiam ser solucionadas com o uso apenas do raciocínio lógico-matemático do participante. Pessoalmente, tive mais facilidade em resolver este do que o anterior. Durante o contest, conseguimos passar 5 questões de 11 (A, B, C, D e F).
 ### 12/09 - Upsolving (5 horas de duração)
 Nesse dia, analisamos a solução das questões do contest, principalmente das questões E, H, I e J. Sendo que nas questões E e J obtivemos grandes aprendizados que com certeza serão úteis no futuro.
+
+## 15/09 - Terceiro contest: Codeforces Round #739 (Div. 3) (2 horas e meia de duração)
+**Link do contest:** https://codeforces.com/contest/1560 \
+**Link com as nossas soluções:** https://github.com/matheuzinn/MAC0214/CfRound739 \
+**Opiniões**: Esse contest 
+### 16/09 - Upsolving (2 horas e meia de duração)
+Ne
