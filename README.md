@@ -1,23 +1,53 @@
 # MAC0214
-Relatório dos estudos de programação competitiva para a matéria MAC0214
 
-## 25/08 - Primeiro contest: ArabellaCPC2019 (5 horas de duração)
-**Link do contest:** https://codeforces.com/gym/102263 \
-**Link com as nossas soluções:** https://github.com/matheuzinn/MAC0214/ArabellaCPC2019 \
-**Opiniões:** Apesar de não cobrar muitos conteúdos de programação, esse contest exigia bastante das habilidades matemáticas dos participantes. No fim, conseguimos resolver 5 questões de 12 (A, B, C, H e M). As questões D e G chegamos a raciocínios próximos ao esperado, porém não o conseguimos acertá-las em sua totalidade. Percebi que tenho muito a melhorar nas areas de matemática e de raciocínio lógico.
-### 04/09 - Upsolving (5 horas de duração)
-Nesse dia, analisamos a solução das questões do contest, principalmente das questões D, G, J, L e I.
+## Contest ArabellaCPC 2019 (25/08/2021, 5 horas) TOTAL ATUAL: 5 HORAS
 
-## 08/09 - Segundo contest: 2015 AlBaath Collegiate Programming Contest (5 horas de duração)
-**Link do contest:** https://codeforces.com/gym/100947 \
-**Link com as nossas soluções:** https://github.com/matheuzinn/MAC0214/2015_AlBaath_Collegiate_Programming_Contest \
-**Opiniões:** Assim como o primeiro contest, esse também não exigia muito conhecimento sobre algoritmos e estruturas de dados, a maior parte das questões podiam ser solucionadas com o uso apenas do raciocínio lógico-matemático do participante. Pessoalmente, tive mais facilidade em resolver este do que o anterior. Durante o contest, conseguimos passar 5 questões de 11 (A, B, C, D e F).
-### 12/09 - Upsolving (5 horas de duração)
-Nesse dia, analisamos a solução das questões do contest, principalmente das questões E, H, I e J. Sendo que nas questões E e J obtivemos grandes aprendizados que com certeza serão úteis no futuro.
+Link do contest: https://codeforces.com/gym/1022632
 
-## 15/09 - Terceiro contest: Codeforces Round #739 (Div. 3) (2 horas e meia de duração)
-**Link do contest:** https://codeforces.com/contest/1560 \
-**Link com as nossas soluções:** https://github.com/matheuzinn/MAC0214/CfRound739 \
-**Opiniões**: Esse contest 
-### 16/09 - Upsolving (2 horas e meia de duração)
-Ne
+Questões passadas: [A](https://codeforces.com/gym/102263/submission/127001857), [B](https://codeforces.com/gym/102263/submission/127002397), [C](https://codeforces.com/gym/102263/submission/127002397), [H](https://codeforces.com/gym/102263/submission/127410614) e [M](https://codeforces.com/gym/102263/submission/127005951).
+
+### Upsolving  ArabellaCPC 2019 (04/08/2021, 5 horas) TOTAL ATUAL: 10 HORAS
+
+## 2015 AlBaath Collegiate Programming Contest (08/09/2021, 5 horas) TOTAL ATUAL: 15 HORAS
+
+Link do contest: https://codeforces.com/gym/100947
+
+Questões passadas: [A](https://codeforces.com/gym/100947/submission/128298222), [B](https://codeforces.com/gym/100947/submission/128296542), [C](https://codeforces.com/gym/100947/submission/128300265), [D](https://codeforces.com/gym/100947/submission/128298600) e [E](https://codeforces.com/gym/100947/submission/128298084).
+
+### Upsolving 2015 AlBaath Collegiate Programming Contest  (04/08/2021,5 horas) TOTAL ATUAL: 20 HORAS
+
+## Codeforces Round #739 (Div. 3) (15/09/2021, 2 horas) TOTAL ATUAL: 22 HORAS
+
+Link do contest: https://codeforces.com/contest/1560
+
+Questões passadas: [A](https://codeforces.com/contest/1560/submission/128940205), [B](https://codeforces.com/contest/1560/submission/128940694), [C](https://codeforces.com/contest/1560/submission/128941005) e [D](https://codeforces.com/contest/1560/submission/128942422).
+
+### Upsolving Codeforces Round #739 (Div. 3) (17/09/2021, 2 horas) TOTAL ATUAL: 24 HORAS
+
+##  Codeforces Round #744 (Div. 3) (28/09/2021,2 horas) TOTAL ATUAL: 26 HORAS
+
+Link do contest: https://codeforces.com/contest/1579
+
+Questões passadas: [A](https://codeforces.com/contest/1579/submission/130105911), [B](https://codeforces.com/contest/1579/submission/130143737), [D](https://codeforces.com/contest/1579/submission/130186177) e [E1](https://codeforces.com/contest/1579/submission/130151530).
+
+### Upsolving Codeforces Round #744 (Div. 3) (29/09/2021, 2 horas) TOTAL ATUAL: 28 HORAS
+
+
+##  Codeforces Round #731 (Div. 3) (01/10/2021,2 horas) TOTAL ATUAL: 30 HORAS
+
+Link do contest: https://codeforces.com/contest/1547
+
+Questões passadas: [A](https://codeforces.com/contest/1547/submission/130498448), [B](https://codeforces.com/contest/1547/submission/130499600), [C](https://codeforces.com/contest/1547/submission/130500475) e [E](https://codeforces.com/contest/1547/submission/130504017).
+
+### Upsolving Codeforces Round #731 (Div. 3) (02/10/2021, 2 horas) TOTAL ATUAL: 32 HORAS
+
+##  Codeforces Round #693 (Div. 3) (04/10/2021,2 horas) TOTAL ATUAL: 34 HORAS
+
+Link do contest: https://codeforces.com/contest/1472
+
+Questões passadas: [A](https://codeforces.com/contest/1472/submission/130841325), [B](https://codeforces.com/contest/1472/submission/130841821), [C](https://codeforces.com/contest/1472/submission/130842231) e [D](https://codeforces.com/contest/1472/submission/130843066).
+
+### Upsolving Codeforces Round #693 (Div. 3) (06/10/2021, 2 horas) TOTAL ATUAL: 36 HORAS
+
+
+
