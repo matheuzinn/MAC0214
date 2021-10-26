@@ -70,4 +70,14 @@ Link do contest: https://codeforces.com/group/5jHvDMn9r4/contest/349244
 Questões passadas: [A](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132725039), [B](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132728644), [C](https://codeforces.com/group/5jHvDMn9r4/contest/349244/submission/132736628) e [P](https://codeforces.com/group/5jHvDMn9r4/contest/349244/problem/P).
 
 ## Upsolving 2019-2020 ACM-ICPC Brazil Subregional Programming Contest (24/10/2021, 5 horas) TOTAL ATUAL: 55 HORAS
+
 ## Upsolving 2020-2021 ACM-ICPC Pacific Northwest Regional Contest (25/10/2021, 5 horas) TOTAL ATUAL: 60 HORAS
+
+##  Codeforces Round #734 (Div. 3) (26/10/2021, 2 horas) TOTAL ATUAL: 62 HORAS
+
+Link do contest: https://codeforces.com/contest/1551
+
+Questões passadas: [A](https://codeforces.com/contest/1551/submission/133167602), [B1](https://codeforces.com/contest/1551/submission/133168443), [B2](https://codeforces.com/contest/1551/submission/133172265), [C](https://codeforces.com/contest/1551/submission/133173694) e [D1](https://codeforces.com/contest/1551/submission/133177300).
+
+## Upsolving Codeforces Round #734 (Div. 3) (26/10/2021, 2 horas) TOTAL ATUAL: 64 HORAS
+
