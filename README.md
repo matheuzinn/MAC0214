@@ -81,3 +81,11 @@ Questões passadas: [A](https://codeforces.com/contest/1551/submission/133167602
 
 ## Upsolving Codeforces Round #734 (Div. 3) (26/10/2021, 2 horas) TOTAL ATUAL: 64 HORAS
 
+##  Codeforces Round #725 (Div. 3) (27/10/2021, 2 horas) TOTAL ATUAL: 66 HORAS
+
+Link do contest: https://codeforces.com/contest/1538
+
+Questões passadas: [A](https://codeforces.com/contest/1538/submission/133286378), [B](https://codeforces.com/contest/1538/submission/133286781), [C](https://codeforces.com/contest/1538/submission/133288538) e [F](https://codeforces.com/contest/1538/submission/133290160).
+
+## Upsolving Codeforces Round #725 (Div. 3) (27/10/2021, 2 horas) TOTAL ATUAL: 68 HORAS
+
