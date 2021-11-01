@@ -97,3 +97,9 @@ Questões passadas: [A](https://codeforces.com/contest/1520/submission/133388043
 
 ## Upsolving Codeforces Round #719 (Div. 3) (27/10/2021, 2 horas) TOTAL ATUAL: 72 HORAS
 
+##  Codeforces Round #713 (Div. 3) (01/11/2021, 2 horas) TOTAL ATUAL: 74 HORAS
+
+Link do contest: https://codeforces.com/contest/1512
+
+Questões passadas: [A](https://codeforces.com/contest/1512/submission/133986628), [B](https://codeforces.com/contest/1512/submission/133987191), [C](https://codeforces.com/contest/1512/submission/133988313) e [D](https://codeforces.com/contest/1512/submission/133990639).
+## Upsolving Codeforces Round #713 (Div. 3) (01/11/2021, 2 horas) TOTAL ATUAL: 76 HORAS
