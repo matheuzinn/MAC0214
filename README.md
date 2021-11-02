@@ -103,3 +103,10 @@ Link do contest: https://codeforces.com/contest/1512
 
 Questões passadas: [A](https://codeforces.com/contest/1512/submission/133986628), [B](https://codeforces.com/contest/1512/submission/133987191), [C](https://codeforces.com/contest/1512/submission/133988313) e [D](https://codeforces.com/contest/1512/submission/133990639).
 ## Upsolving Codeforces Round #713 (Div. 3) (01/11/2021, 2 horas) TOTAL ATUAL: 76 HORAS
+
+##  Codeforces Round #753 (Div. 3) (02/11/2021, 2 horas) TOTAL ATUAL: 78 HORAS
+
+Link do contest: https://codeforces.com/contest/1512
+
+Questões passadas: [A](https://codeforces.com/contest/1607/submission/134070960), [B](https://codeforces.com/contest/1607/submission/134100513), [C](https://codeforces.com/contest/1607/submission/134085760), [D](https://codeforces.com/contest/1607/submission/134112015) e [E](https://codeforces.com/contest/1607/submission/134127926).
+## Upsolving Codeforces Round #753 (Div. 3) (03/11/2021, 2 horas) TOTAL ATUAL: 80 HORAS
