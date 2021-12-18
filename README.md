@@ -110,3 +110,17 @@ Link do contest: https://codeforces.com/contest/1512
 
 Questões passadas: [A](https://codeforces.com/contest/1607/submission/134070960), [B](https://codeforces.com/contest/1607/submission/134100513), [C](https://codeforces.com/contest/1607/submission/134085760), [D](https://codeforces.com/contest/1607/submission/134112015) e [E](https://codeforces.com/contest/1607/submission/134127926).
 ## Upsolving Codeforces Round #753 (Div. 3) (03/11/2021, 2 horas) TOTAL ATUAL: 80 HORAS
+
+##  Codeforces Global Round 17 (23/11/2021, 2 horas) TOTAL ATUAL: 82 HORAS
+
+Link do contest: https://codeforces.com/contest/1610
+
+Questões passadas: [A](https://codeforces.com/contest/1610/submission/136627926), [B](https://codeforces.com/contest/1610/submission/136642339) e [C](https://codeforces.com/contest/1610/submission/136654567).
+## Upsolving Codeforces Global Round 17 (24/11/2021, 2 horas) TOTAL ATUAL: 84 HORAS
+
+##  2018-2019 ACM-ICPC Brazil Subregional Programming Contest (12/12/2021, 5 horas) TOTAL ATUAL: 89 HORAS
+
+Link do contest: https://codeforces.com/gym/101908/
+
+Questões passadas: [D](https://codeforces.com/gym/101908/submission/138930630), [E](https://codeforces.com/gym/101908/submission/138931350) e [I](https://codeforces.com/gym/101908/submission/138935478).
+## Upsolving 2018-2019 ACM-ICPC Brazil Subregional Programming Contest (13/12/2021, 5 horas) TOTAL ATUAL: 94 HORAS
