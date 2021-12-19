@@ -124,3 +124,10 @@ Link do contest: https://codeforces.com/gym/101908/
 
 Questões passadas: [D](https://codeforces.com/gym/101908/submission/138930630), [E](https://codeforces.com/gym/101908/submission/138931350) e [I](https://codeforces.com/gym/101908/submission/138935478).
 ## Upsolving 2018-2019 ACM-ICPC Brazil Subregional Programming Contest (13/12/2021, 5 horas) TOTAL ATUAL: 94 HORAS
+## Copa Do Matão, University Of São Paulo Programming Contest (19/12/2021, 5 horas) TOTAL ATUAL: 99 HORAS
+
+Link do contest: https://codeforces.com/gym/103485
+
+Questões passadas: [C](https://codeforces.com/gym/103485/submission/139921259), [D](https://codeforces.com/gym/103485/submission/139926141), [H](https://codeforces.com/gym/103485/submission/139916787), [K](https://codeforces.com/gym/103485/submission/139923053) e [N](https://codeforces.com/gym/103485/submission/139928572). 
+## Upsolving Copa Do Matão, University Of São Paulo Programming Contest (19/12/2021, 5 horas) TOTAL ATUAL: 104 HORAS
+
